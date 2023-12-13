@@ -12,7 +12,8 @@
 <h2>my sns😺 </h2>
 
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/my_instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white&link=%3Cimg%20alt%3D%22Static%20Badge%22%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2Fmy_instagram-8A2BE2%3Flink%3Dhttps%253A%252F%252Fwww.instagram.com%252Fhanbyeol0211%252F%253Fnext%253Dhttps%25253A%25252F%25252Fwww.instagram.com%25252Faccounts%25252Fonetap%25252F%25253Fnext%25253D%2525252F%252526hl%25253Dko%252526__coig_login%25253D1%22%3E" ></br></br>
+<img alt="Static Badge" src="https://img.shields.io/badge/instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fhanbyeol0211%2F%3Fnext%3D%252F%26hl%3Dko">
+</br></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/my_Discordname-%EB%B0%95%ED%95%9C%EB%B3%84%233505-D3D3D3?style=for-the-badge&logo=Discord"></br></br>
 <img alt="Static Badge" src="https://img.shields.io/badge/my_Email-ekakth211%40naver.com%233505-e9ecef?style=for-the-badge&logo=gmail&logoColor=33ff33">
 <hr>
